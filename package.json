@@ -1,0 +1,16 @@
+{
+  "name": "SPace_DAily",
+  "version": "1.0.0",
+  "description": "Web App using Node express server  and the node fetch module to fetch data from NASA's API and display to us daily data from NASA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
